@@ -1,0 +1,5 @@
+.idea/
+build/
+*.spec
+__py
+__pycache__/
